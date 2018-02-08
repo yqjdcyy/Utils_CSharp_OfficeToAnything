@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPTToAnything", "PPTToAnything\PPTToAnything.csproj", "{768BC44B-9470-4F73-9C98-27762E21C30F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OfficeToAnything", "PPTToAnything\OfficeToAnything.csproj", "{768BC44B-9470-4F73-9C98-27762E21C30F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPT2HTML5.Expand.Service", "..\..\..\yk\csharp\yk_pptconvertor\code\powerpoint2html5\PPT2HTML5.ConversionEngine\PPT2HTML5.Expand.Service\PPT2HTML5.Expand.Service\PPT2HTML5.Expand.Service.csproj", "{C797CA3C-CE76-42A4-A5CC-DBBCA8508C8C}"
 EndProject

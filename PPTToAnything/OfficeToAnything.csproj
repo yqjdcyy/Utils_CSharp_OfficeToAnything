@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{768BC44B-9470-4F73-9C98-27762E21C30F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>PPTToAnything</RootNamespace>
-    <AssemblyName>PPTToAnything</AssemblyName>
+    <RootNamespace>OfficeToAnything</RootNamespace>
+    <AssemblyName>OfficeToAnything</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
