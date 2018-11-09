@@ -1,0 +1,53 @@
+ 驱动器 D 中的卷是 工作
+ 卷的序列号是 587A-A7FC
+
+ D:\work\git\yao\csharp\PPTToAnything\PPTToAnything\Template 的目录
+
+2018/11/09  12:04    <DIR>          .
+2018/11/09  12:04    <DIR>          ..
+2018/11/09  12:04                 0 dir.txt
+2018/11/08  17:44            27,136 empty.doc
+2018/02/06  14:41                 0 empty.docx
+2018/10/22  14:59            85,504 empty.ppt
+2018/02/06  16:44            29,209 empty.pptx
+2018/11/08  17:48            22,016 empty.xls
+2018/02/07  15:26             6,246 empty.xlsx
+2017/08/04  17:51           195,077 error-jpg.doc
+2017/09/07  11:40            93,670 error-jpg.docx
+2017/09/07  11:40            93,670 error-jpg.ppt
+2017/09/07  11:40            93,670 error-jpg.pptx
+2017/08/04  17:51           195,077 error-jpg.xls
+2017/08/04  17:51           195,077 error-jpg.xlsx
+2018/11/08  17:29           587,264 error-keynote.ppt
+2018/11/08  17:30           587,514 error-keynote.pptx
+2018/02/06  14:41                 0 error-no-data.xlsx
+2018/10/22  14:59            95,744 error-ppt.doc
+2018/10/22  14:59            95,744 error-ppt.docx
+2018/02/07  15:28             8,532 error-xls.ppt
+2018/02/07  15:28             8,532 error-xls.pptx
+2018/02/07  19:12        18,495,622 fix.ppt
+2018/02/07  19:12        18,495,622 fix.pptx
+2018/11/08  17:44            27,136 normal.doc
+2018/02/06  14:40            11,557 normal.docx
+2018/10/22  14:59            95,744 normal.ppt
+2018/02/06  11:24            34,518 normal.pptx
+2018/11/08  17:50            23,040 normal.xls
+2018/02/07  15:28             8,532 normal.xlsx
+2018/11/08  17:45            27,136 password-read.doc
+2018/02/06  14:41            17,920 password-read.docx
+2018/10/24  10:37            41,472 password-read.ppt
+2018/02/06  11:26            40,960 password-read.pptx
+2018/11/08  17:52            23,040 password-read.xls
+2018/02/07  15:29            14,848 password-read.xlsx
+2018/11/08  17:45            27,136 password-write.doc
+2018/10/24  10:38            41,472 password-write.ppt
+2018/10/23  11:20            34,740 password-write.pptx
+2018/11/08  17:51            23,040 password-write.xls
+2018/11/08  17:50             8,695 password-write.xlsx
+2018/11/08  17:43            13,253 password-writel.docx
+2018/11/08  17:46            26,624 readonly.doc
+2018/03/09  10:26            12,310 readonly.docx
+2018/10/22  15:00            95,744 readonly.ppt
+2018/02/07  19:00            35,197 readonly.pptx
+              44 个文件     40,095,040 字节
+               2 个目录 312,523,845,632 可用字节
